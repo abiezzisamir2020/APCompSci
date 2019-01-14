@@ -1,1 +1,1 @@
-This is the latest homework assignment.
+We created a palendrome tester for words and phrases.
