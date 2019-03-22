@@ -1,0 +1,23 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50352:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/samirabiezzi/IdeaProjects/PVPBattleground/out/production/PVPBattleground Main
+A fighter named soldier has been created!
+A Priest named Zenyata has been created!
+A Paladin named Brigete has been created!
+A Mage named Storm has been created!
+soldier, a Fighter:
+STR:  17 INT:  12 AGI:  11 CON:  12
+ HP:  58/ 58
+ MP:   0/  0
+Zenyata, a Priest:
+STR:   8 INT:  19 AGI:  10 CAR:  13
+ HP:   8/  8
+ MP:  45/ 45
+Brigete, a Paladin:
+STR:  14 INT:  21 AGI:  10 WIS:  11 CON:  13
+ HP:  40/ 40
+ MP:  43/ 43
+Storm, a Mage:
+STR:  10 INT:  18 AGI:   9 WIS:  12
+ HP:  10/ 10
+ MP:  42/ 42
+
+Process finished with exit code 0
